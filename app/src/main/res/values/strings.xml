@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySnapShot</string>
+    <string name="title_activity_screenshot">ScreenshotActivity</string>
+</resources>
